@@ -5,6 +5,8 @@ def sum(a, b):
 def hello(name):
     print(f"Hello, {name}!")
 
+result = sum (3, 5)
 
+print(result)
 hello("Alice")
-hello()
+hello("Vahagn")
