@@ -1,3 +1,7 @@
+'''
+This is the mypy demo file. It contains 3 functions and 3 function calls.
+'''
+
 def add(a: int, b: int) -> int:
     """Adds two integers."""
     return a + b
