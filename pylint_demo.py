@@ -1,6 +1,6 @@
 '''
 
-This file contains 2 functions
+This file contains 2 functions.
 
 '''
 
